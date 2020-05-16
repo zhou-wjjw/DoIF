@@ -7,6 +7,9 @@
 重要！重要！重要！
 郑重声明：本项目仅仅是一个间歇性禁食的开源参考资料，所提供的所有资料以及工具不能作为医疗支持，对任何人不存在任何引导，每个人需要根据自己的身体状况进行谨慎判断，本项目对所有人的健康以及间歇性禁食带来的身体改变不承担任何责任，祝各位身体健康。
 
+本人身体指标（体重和体脂率）变化
+
+
 
 Start by meeting us and bravely going on an intermittent fast and let's finish together. You can find supplemental APPs, methods, success stories, etc., everything you want.
 There is very little information and support tools available in the field of intermittent fasting, and the results have been very good purely from my personal practice (3% reduction in body fat in one month with exercise). Preliminary planning: the authoritative research on intermittent fasting, success stories and methods, and aids (applet, web, app) to help people perform intermittent fasting and improve their physical indicators.
