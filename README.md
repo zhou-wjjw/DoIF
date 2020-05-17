@@ -7,6 +7,9 @@
 重要！重要！重要！
 郑重声明：本项目仅仅是一个间歇性禁食的开源参考资料，所提供的所有资料以及工具不能作为医疗支持，对任何人不存在任何引导，每个人需要根据自己的身体状况进行谨慎判断，本项目对所有人的健康以及间歇性禁食带来的身体改变不承担任何责任，祝各位身体健康。
 
+
+PS:作者是主要专业是管理学，计算机以及医学相关知识仅仅是通过自学，可能在编程规范以及医疗专业知识上有很大欠缺，希望各位理解，欢迎一起改进项目。
+
 本人身体指标（体重和体脂率）变化(Changes in my physical indicators (weight and body fat percentage))
 ![image](https://github.com/zhou-wjjw/DoIF/blob/master/images/%E4%BD%93%E8%84%82%E7%8E%87.jpg)
 ![image](https://github.com/zhou-wjjw/DoIF/blob/master/images/%E4%BD%93%E9%87%8D.jpg)
@@ -20,3 +23,5 @@ People who adopt intermittent fasting come from three main groups: obese people,
 
 Important! Important! Important!
 For the record: this project is only an open source reference for intermittent fasting, all information and tools provided cannot be used as medical support, there is no guidance for anyone, everyone needs to make a careful judgment based on their physical condition, this project is not responsible for the health of everyone and the physical changes brought about by intermittent fasting, good health to all.
+
+PS:The author is majoring in management, computer and medical related knowledge is only through self-learning, there may be a big gap in programming specifications and medical expertise, I hope you understand, welcome to improve the project together.
