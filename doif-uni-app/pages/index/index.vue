@@ -11,9 +11,9 @@
 			</view>
 			<view class="header_content">
 				<view class="left">
-					<text class="title">教资面试精品课</text>
-					<text class="sub_title">读懂考官套路，轻松备考面试</text>
-					<text class="btn">免费试学</text>
+					<text class="title">间歇性禁食资料</text>
+					<text class="sub_title">来自研究论文，文章等</text>
+					<text class="btn">点击获取</text>
 				</view>
 				<view>
 					<image src="/static/right.png" style="width: 131px;height: 122px;"></image>
@@ -41,8 +41,8 @@
 			</view>
 			<view class="ad">
 				<view class="ad_btn">
-					<text class="title">教资面试课上线</text>
-					<text class="sub_title">老用户现实立减100元</text>
+					<text class="title">案例参考</text>
+					<text class="sub_title">参考成功及失败案例</text>
 				</view>
 				<image src="/static/tag.png" class="bg"></image>
 			</view>
@@ -72,48 +72,48 @@
 				menus: [{
 						bg: 'linear-gradient(0deg,rgba(9,216,162,1),rgba(90,242,217,1))',
 						icon: '/static/graduation.png',
-						txt: '同伴管',
+						txt: '研究资料',
 						isFree: true
 					},
 					{
 						bg: 'linear-gradient(0deg,rgba(251,184,35,1),rgba(255,228,40,1))',
 						icon: '/static/live.png',
-						txt: '直播课',
+						txt: '生活记录',
 						isFree: false
 					},
 					{
 						bg: 'linear-gradient(0deg,rgba(255,126,34,1),rgba(240,184,27,1))',
 						icon: '/static/emblem.png',
-						txt: '优选课',
+						txt: '菜谱安排',
 						isFree: true
 					},
 					{
 						bg: 'linear-gradient(0deg,rgba(9,177,252,1),rgba(24,200,255,1))',
 						icon: '/static/question_bank.png',
-						txt: '智能题库',
+						txt: '历史记录',
 						isFree: true
 					}
 				],
 				second_menus: [{
 						icon: '/static/exam.png',
-						txt: '考试教案'
+						txt: '体重变换'
 					},
 					{
 						icon: '/static/textbook.png',
-						txt: '教材教案',
+						txt: '体脂变换',
 					},
 					{
 						icon: '/static/book_ticket.png',
-						txt: '青书券'
+						txt: '饮食记录'
 					},
 					{
 						icon: '/static/more.png',
-						txt: '全部课程'
+						txt: '其他功能'
 					}
 				],
 				records: [{
 						bg: 'linear-gradient(-30deg,rgba(171,218,255,1),rgba(215,239,255,1))',
-						title: '教师考情分析',
+						title: '交流分析',
 						mainTeacher: '小A',
 						subTitle: '标题名称',
 						subColor: '#15639F',
@@ -128,15 +128,6 @@
 						subColor: '#07B77B',
 						icon: '/static/test.png',
 						isFree: false
-					},
-					{
-						bg: 'linear-gradient(-30deg,rgba(171,218,255,1),rgba(215,239,255,1))',
-						title: '教师考情分析',
-						mainTeacher: '小A',
-						subTitle: '标题名称',
-						subColor: '#15639F',
-						icon: '/static/test2.png',
-						isFree: true
 					}
 				]
 			}
