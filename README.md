@@ -9,12 +9,42 @@
 重要！重要！重要！
 郑重声明：本项目仅仅是一个间歇性禁食的开源参考资料，所提供的所有资料以及工具不能作为医疗支持，对任何人不存在任何引导，每个人需要根据自己的身体状况进行谨慎判断，本项目对所有人的健康以及间歇性禁食带来的身体改变不承担任何责任，祝各位身体健康。
 
-
-PS:作者是主要专业是管理学，计算机以及医学相关知识仅仅是通过自学，可能在编程规范以及医疗专业知识上有很大欠缺，希望各位理解，欢迎一起改进项目。
-
 作者身体指标（体重和体脂率）变化(Changes in my physical indicators (weight and body fat percentage))
 ![image](https://github.com/zhou-wjjw/DoIF/blob/master/images/%E4%BD%93%E8%84%82%E7%8E%87.jpg)
 ![image](https://github.com/zhou-wjjw/DoIF/blob/master/images/%E4%BD%93%E9%87%8D.jpg)
+
+## 上手指南
+
+
+## 安装要求
+
+
+## 快速开始
+
+
+## 部署
+
+
+## 使用到的框架
+
+
+## 贡献者
+请阅读CONTRIBUTING.md 查阅为该项目做出贡献的开发者。
+
+
+
+## 作者
+疯狂的挖掘机
+作者是主要专业是管理学，计算机以及医学相关知识仅仅是通过自学，可能在编程规范以及医疗专业知识上有很大欠缺，希望各位理解，欢迎一起改进项目。
+您也可以在贡献者名单中参看所有参与该项目的开发者。
+
+
+## 版权说明
+该项目签署了MIT 授权许可，详情请参阅 LICENSE.md
+
+
+
+## 鸣谢
 
 
 # DoIF
@@ -28,4 +58,36 @@ People who adopt intermittent fasting come from three main groups: obese people,
 Important! Important! Important!
 For the record: this project is only an open source reference for IntermittentFasting, all information and tools provided cannot be used as medical support, there is no guidance for anyone, everyone needs to make a careful judgment based on their physical condition, this project is not responsible for the health of everyone and the physical changes brought about by IntermittentFasting, good health to all.
 
-PS:The author is majoring in management, computer and medical related knowledge is only through self-learning, there may be a big gap in programming specifications and medical expertise, I hope you understand, welcome to improve the project together.
+
+## Up the south finger
+
+
+## Installation requirements
+
+
+## Quick start.
+
+
+## Deployment
+
+
+## Framework used
+
+
+## Contributor.
+Read CONTRIBUTING.md to see the developers who contributed to this project.
+
+
+
+## Author.
+Crazy Excavator.
+The author's major is management, computer and medical related knowledge is only through self-education, there may be a big gap in programming specifications and medical expertise.
+You can also refer to all the developers involved in the project in the list of contributors.
+
+
+## Copyright Notice
+The project signed the MIT license, see LICENSE.md for details
+
+
+
+## Acknowledgements
