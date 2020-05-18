@@ -36,6 +36,15 @@
 | 其他案例 |      |  |
 |        | 成功案例 |  |
 
+## 项目规划
+> 系统建设
+>> 1. 完成后端基础建设（Java版本）
+>> 2. 完成前端Web版本建设
+>> 3. 完成小程序端建设
+>> 4. 完成APP端建设 
+>> 5. 资料整理
+
+
 ## 上手指南
 
 
@@ -104,6 +113,14 @@ For the record: this project is only an open source reference for IntermittentFa
 |        | 研究结论 |  |
 | 其他案例 |      |  |
 |        | 成功案例 |  |
+
+## Project planning
+> System construction
+>> 1. Back-end infrastructure completed (Java version)
+>> 2. complete front-end web version building
+>> 3. complete the construction of the applet side
+>> 4. complete the construction of the APP end 
+>> 5. Collation of information
 
 ## Up the south finger
 
